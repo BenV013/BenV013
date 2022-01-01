@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenV013
-- 👀 I’m interested in Smart Contract
+- 👀 I’m interested in Smart Contracts
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Ethereum / blockchain / solidity / avalanche / ubix
 - 📫 How to reach me ...
